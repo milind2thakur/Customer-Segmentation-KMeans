@@ -13,7 +13,10 @@ To access the dataset:
 2. Save the dataset file (CSV format) to your local machine.
 
 3. Images :
-4. 
+
+4. ![customer_ss](https://github.com/milind2thakur/Customer-Segmentation-KMeans/assets/23084109/c015f552-3017-4049-bd5f-99443e670f17)
+
+5. 
 ![elbow_curve](https://github.com/milind2thakur/Customer-Segmentation-KMeans/assets/23084109/f57bdcc0-f7de-4ab2-9ca5-1655a2fa17e5)
 ![cluster_sizes_barplot](https://github.com/milind2thakur/Customer-Segmentation-KMeans/assets/23084109/19d4bbe0-1822-4222-b8c0-3396f132b99e)
 ![rfm_pairplot](https://github.com/milind2thakur/Customer-Segmentation-KMeans/assets/23084109/9aa19e3b-ad4e-4fb7-96f6-3b982814dcb6)
